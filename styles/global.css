@@ -1,7 +1,9 @@
 @font-face {
   font-family: "Reactive";
   src: url("/assets/fonts/Reactive.woff2") format("woff2"),
-    url("/assets/fonts/Reactive.woff") format("woff");
+    url("/assets/fonts/reactive1.woff"),
+    url("/assets/fonts/reactive2.woff2") url("/assets/fonts/Reactive.woff")
+      format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -22,7 +24,7 @@
     padding: 0;
   }
   .LandingPage {
-    font-family: Reactive, "sans";
+    font-family: Reactive;
     background: url("https://images.unsplash.com/photo-1531685250784-7569952593d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60");
     background-size: cover;
   }
