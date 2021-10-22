@@ -5,8 +5,8 @@ import Link from "next/link";
 
 const LandingPage = () => {
   return (
-    <div className="LandingPage flex flex-col h-screen justify-center items-center">
-      <div className="flex flex-col fade-in-bottom w-[350px] sm:w-[480px] justify-center">
+    <div className="LandingPage flex flex-col h-screen pt-40 sm:pt-0 sm:justify-center items-center">
+      <div className="flex flex-col fade-in-bottom w-[300px] sm:w-[480px] justify-center">
         <h1 className="text-6xl md:text-8xl">Hi, my name is Tom Rago</h1>
         <p className="font-alata text-xl md:text-2xl">
           I am a web developer and I specialize in front-end development.
@@ -19,9 +19,9 @@ const LandingPage = () => {
               src="/images/stroke.png"
               alt="paint-stroke"
             />
-            <div className="absolute top-[26px] sm:top-[30px] left-[60px] sm:left-[65px] text-white font-alata">
+            <div className="absolute top-[17px] sm:top-[30px] left-[35px] sm:left-[65px] text-white font-alata">
               <Link href="#about">
-                <h2>About Me</h2>
+                <h2 className="text-sm sm:text-lg">About Me</h2>
               </Link>
             </div>
           </div>
