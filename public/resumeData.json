@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Tom Rago",
+    "occupation": "Front-end Developer",
+    "description": "I specialize in front-end and back-end development.",
+    "image": "profilepic.jpg",
+    "bio": "My name is Tom Rago, I am a self-taught web developer. I started learning about three years ago. I was stuck in a dead-end job and wasn’t very happy with where my career was going. I searched and searched on the internet to find a career I could learn on own. There were decent jobs that I found, but nothing I was interested in. Then web development caught my eye. I was always interested in technology and the web, so I figured I would give it a shot. After reading up on others that have switched careers to web development, I found that it was possible. It was inspiring. If I put in the hard work and tried my best, I could finally have a career I was proud of and make a great living for myself.I have taken courses online such as Udemy, Codeacademy, and Treehouse. I found that Udemy was the best learning tool for me and was not expensive at all. They have great teachers, and if you have any questions about the course or run into any problems, they will respond rather swiftly. I have learned HTML, CSS, Javascript, React, Redux, Nodejs, and many more libraries/frameworks. I enjoy creating websites and would love to make my new career. All I need is someone to give me a chance and I know I will become a great asset to any company willing to give me the opportunity.",
+    "contactmessage": "If anybody is hiring for a Web Developer job please contact me!",
+    "email": "tomrago580@gmail.com",
+    "phone": "267-566-0208",
+    "address": {
+      "street": "28 Roundwood Lane",
+      "city": "Levittown",
+      "state": "Pennsylvania",
+      "zip": "19055"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tom-rago-36496065",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tom318267",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Bucks County Community College",
+        "degree": "Computer Networking",
+        "graduated": "July 2016"
+      },
+      {
+        "school": "Neshaminy High School",
+        "degree": "High School Diploma",
+        "graduated": "June 2004"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance Web Developer",
+        "title": "Front-end Developer",
+        "years": "Sep 2018 - Present",
+        "description": "Develop functional and appealing web- and mobile-based applications based on usability. Provide website maintenance and enhancements. Use a combination of markup languages to write web pages. Write functional requirement documents and specifications."
+      },
+      {
+        "company": "Chilis Grill & Bar",
+        "title": "Server",
+        "years": "May 2010 - Present",
+        "description": "Responsible for taking drink and food orders from a customer. Greeting customers at the table, taking customer orders, dealing with customer issues and complaints, and giving customers their bill."
+      },
+      {
+        "company": "Pest Control Technician",
+        "title": "Above All Pest Control",
+        "years": "Sep 2014 - Aug 2021",
+        "description": "Responsible for identifying, selecting, mixing, and applying chemical or manual solutions to eliminate pests. Identifies pest problem and appropriate solution, applies chemical or trap, and removes animals."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "98%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Triumph Clothing",
+        "category": "",
+        "image": "triumph.jpg",
+        "url": "https://triumph-clothing.herokuapp.com/"
+      },
+      {
+        "title": "AirBnb Clone",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://airbnb-clone-ten-kappa.vercel.app/"
+      },
+      {
+        "title": "Storybook",
+        "category": "",
+        "image": "storybook.jpg",
+        "url": "https://rocky-hamlet-26930.herokuapp.com/"
+      },
+      {
+        "title": "Hawthorne Apparel",
+        "category": "",
+        "image": "hawthorne.jpg",
+        "url": "https://hawthorne.vercel.app/"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "",
+        "image": "slack.jpg",
+        "url": "https://slack-clone-23df2.firebaseapp.com/"
+      },
+
+      {
+        "title": "Snapchat Clone",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://snapchat-clone-bb3e6.web.app/"
+      },
+
+      {
+        "title": "LinkedIn Clone",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://linked-in-clone-d75b2.web.app/"
+      },
+      {
+        "title": "Diet Guru",
+        "category": "",
+        "image": "diet.jpg",
+        "url": "https://diet-guru2.vercel.app/"
+      },
+      {
+        "title": "Fitness App",
+        "category": "",
+        "image": "fitness.png",
+        "url": "https://fitness-app-lake.vercel.app/"
+      }
+    ]
+  }
+}
