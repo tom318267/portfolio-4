@@ -19,7 +19,7 @@ const LandingPage = () => {
               src="/images/stroke.png"
               alt="paint-stroke"
             />
-            <div className="absolute top-[17px] sm:top-[30px] left-[35px] sm:left-[65px] text-white font-alata">
+            <div className="absolute top-[16px] sm:top-[30px] left-[35px] sm:left-[65px] text-white font-alata">
               <Link href="#about">
                 <h2 className="text-sm sm:text-lg">About Me</h2>
               </Link>
