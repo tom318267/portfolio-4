@@ -1,9 +1,8 @@
 @font-face {
   font-family: "Reactive";
   src: url("/assets/fonts/Reactive.woff2") format("woff2"),
-    url("/assets/fonts/reactive1.woff"),
-    url("/assets/fonts/reactive2.woff2") url("/assets/fonts/Reactive.woff")
-      format("woff");
+    url("/assets/fonts/reactive1.woff"), url("/assets/fonts/reactive2.woff2"),
+    url("/assets/fonts/Reactive.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
