@@ -748,8 +748,8 @@
   #contact button.submit {
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #fff;
-    background: #0d0d0d;
+    color: black;
+    background: white;
     border: none;
     cursor: pointer;
     height: auto;
@@ -758,10 +758,7 @@
     margin-left: 26%;
     padding: 15px;
   }
-  #contact button.submit:hover {
-    color: #0d0d0d;
-    background: #fff;
-  }
+
   #contact span.required {
     color: red;
     font-size: 13px;

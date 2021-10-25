@@ -6,7 +6,7 @@ const About = () => {
       <div>
         <h1 className="text-3xl mb-8">About Me</h1>
         <p className="mb-8 text-lg">
-          My name is Tom Rago, I am a self-taught web developer. I started
+          My name is Tom Rago. I am a self-taught web developer. I started
           learning about three years ago. I was stuck in a dead-end job and
           wasn’t very happy with where my career was going. I searched and
           searched on the internet to find a career I could learn on own. There

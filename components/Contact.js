@@ -100,7 +100,11 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <button onClick={submitForm} type="submit" className="submit">
+                <button
+                  onClick={submitForm}
+                  type="submit"
+                  className="submit active:scale-90 transition duration-150"
+                >
                   Submit
                 </button>
               </div>
