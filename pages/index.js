@@ -22,13 +22,13 @@ export default function Home() {
         <title>Tom Rago Portfolio</title>
         <link rel="icon" href="/favicon.ico" />
         <link
-          href="https://fonts.googleapis.com/css2?family=Alata&display=swap"
-          rel="stylesheet"
-        ></link>
-        <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
         />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Alata&family=Quicksand:wght@400;500;600;700&display=swap"
+          rel="stylesheet"
+        ></link>
       </Head>
 
       <Navbar />

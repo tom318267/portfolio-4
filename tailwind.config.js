@@ -5,6 +5,8 @@ module.exports = {
   theme: {
     fontFamily: {
       alata: ["Alata", "sans-serif"],
+      quick: ["Quicksand", "sans-serif"],
+      reactive: ["Reactive", "sans"],
     },
     extend: {},
   },
