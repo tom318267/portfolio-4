@@ -5,7 +5,7 @@ import Link from "next/link";
 const LandingPage = () => {
   return (
     <div className="LandingPage flex flex-col h-screen pt-[90px] sm:pt-0 sm:justify-center items-center">
-      <div className="flex flex-col fade-in-bottom w-[300px] sm:w-[480px] justify-center">
+      <div className="flex flex-col fade-in-bottom w-[300px] sm:w-[480px] lg:w-[550px] justify-center">
         <h1 className="font-quick font-semibold sm:font-normal uppercase text-md sm:font-reactive leading-tight text-6xl md:text-8xl">
           Hi, my name is Tom Rago
         </h1>
