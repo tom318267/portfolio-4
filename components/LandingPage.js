@@ -28,11 +28,15 @@ const LandingPage = () => {
           </div>
 
           <div className="mr-4 sm:mr-0">
-            <FaLinkedin className="text-3xl" />
+            <Link href="https://www.linkedin.com/in/tom-rago-36496065/">
+              <FaLinkedin className="text-3xl" />
+            </Link>
           </div>
 
           <div>
-            <FaGithub className="text-3xl" />
+            <Link href="https://github.com/tom318267">
+              <FaGithub className="text-3xl" />
+            </Link>
           </div>
         </div>
       </div>
