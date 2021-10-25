@@ -22,6 +22,10 @@
     margin: 0;
     padding: 0;
   }
+
+  .wf-loading body {
+    visibility: hidden;
+  }
   .LandingPage {
     background: url("https://images.unsplash.com/photo-1531685250784-7569952593d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60");
     background-size: cover;
