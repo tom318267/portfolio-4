@@ -34,7 +34,7 @@ const Navbar = () => {
                 </Disclosure.Button>
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-between">
-                <div className="flex-shrink-0 flex items-center">
+                <div className="flex-shrink-0 flex cursor-pointer items-center">
                   <Link href="/">
                     <img className="w-[100px]" src="/images/logo.png" alt="" />
                   </Link>
