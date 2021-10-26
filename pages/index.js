@@ -29,7 +29,6 @@ export default function Home() {
           href="https://fonts.googleapis.com/css2?family=Alata&family=Quicksand:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         ></link>
-        <link rel="preload" as="font" href="/assets/fonts/reactive.ttf"></link>
       </Head>
 
       <Navbar />
