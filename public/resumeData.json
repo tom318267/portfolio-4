@@ -31,6 +31,12 @@
   },
   "resume": {
     "skillmessage": "My Programming Language Proficiency",
+    "certificates": [
+      {
+        "title": "Zero to Mastery Academy",
+        "description": "Zero To Mastery is an online coding academy and community of 200,000+ developers from around the world who come to learn to code efficiently, level up their skills, get hired at top companies around the world, and advance their careers."
+      }
+    ],
     "education": [
       {
         "school": "Bucks County Community College",
@@ -43,10 +49,11 @@
         "graduated": "June 2004"
       }
     ],
+
     "work": [
       {
         "company": "Freelance Web Developer",
-        "title": "Front-end Developer",
+        "title": "Front-End Developer",
         "years": "Sep 2018 - Present",
         "description": "Develop functional and appealing web- and mobile-based applications based on usability. Provide website maintenance and enhancements. Use a combination of markup languages to write web pages. Write functional requirement documents and specifications."
       },
@@ -63,7 +70,12 @@
         "description": "Responsible for identifying, selecting, mixing, and applying chemical or manual solutions to eliminate pests. Identifies pest problem and appropriate solution, applies chemical or trap, and removes animals."
       }
     ],
+
     "skills": [
+      {
+        "name": "HTML",
+        "level": "99%"
+      },
       {
         "name": "ReactJs",
         "level": "98%"
