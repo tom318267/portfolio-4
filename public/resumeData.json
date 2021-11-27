@@ -151,12 +151,6 @@
         "category": "",
         "image": "fitness.png",
         "url": "https://fitness-app-lake.vercel.app/"
-      },
-      {
-        "title": "Furever Pets",
-        "category": "",
-        "image": "furever.png",
-        "url": "https://furever-cszm1prg6-tom318267.vercel.app/"
       }
     ]
   }
