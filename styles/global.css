@@ -166,7 +166,7 @@
   }
 
   /* Portfolio Content */
-  #portfolio-wrapper .columns {
+  .portfolio-wrapper .columns {
     margin-bottom: 36px;
   }
   .portfolio-item .item-wrap {
@@ -306,11 +306,6 @@
     margin-left: 24px;
   }
 
-  .row {
-    width: 96%;
-    max-width: 1020px;
-    margin: 0 auto;
-  }
   /* fixed width for IE8 */
   .ie .row {
     width: 1000px;

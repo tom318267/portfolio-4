@@ -155,8 +155,21 @@
       {
         "title": "Furever Pets",
         "category": "",
-        "image": "furever.png",
+        "image": "fureverHome.png",
         "url": "https://furever-murex.vercel.app/"
+      }
+    ],
+    "uxProjects": [
+      {
+        "title": "Savory Sandwiches",
+        "image": "savory.png",
+        "url": "savory.pdf"
+      },
+
+      {
+        "title": "Furever Pets",
+        "image": "furever.png",
+        "url": "furever.pdf"
       }
     ]
   }
