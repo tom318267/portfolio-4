@@ -10,7 +10,8 @@ const LandingPage = () => {
           Hi, my name is Tom Rago
         </h1>
         <p className="font-alata text-xl md:text-2xl">
-          I am a web developer and I specialize in front-end development.
+          I am a Web Developer/UX Designer and I specialize in front-end
+          development.
         </p>
 
         <div className="flex justify-between items-center relative cursor-pointer">
