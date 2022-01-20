@@ -157,6 +157,12 @@
         "category": "",
         "image": "fureverHome.png",
         "url": "https://furever-murex.vercel.app/"
+      },
+      {
+        "title": "DevU",
+        "category": "",
+        "image": "devU.png",
+        "url": "https://dev-u.vercel.app/"
       }
     ],
     "uxProjects": [
