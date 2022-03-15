@@ -15,19 +15,24 @@ const About = () => {
           on the internet to find a career I could learn on my own. There were
           decent jobs that I found, but nothing I was interested in. Then web
           development caught my eye. I was always interested in technology and
-          the web, so I figured I'd give it a shot. After reading up on others
-          that have switched careers to web development, I found that it was
-          possible. It was inspiring. If I put in the hard work and tried my
-          best, I could finally have a career I was proud of and make a great
-          living for myself. I've taken courses online such as Udemy,
-          Codeacademy, and Treehouse. I found that Udemy was the best learning
-          tool for me and wasn't expensive at all. They have great teachers, and
-          if you have any questions about the course or run into any problems,
-          they'll respond rather swiftly. I've learned HTML, CSS, Javascript,
-          React, Redux, Nodejs, and many more libraries/frameworks. I enjoy
-          creating websites and would love to make it my new career. All I need
-          is someone to give me a chance and I know I'll become a great asset to
-          any company willing to give me the opportunity.
+          the web, so I figured I'd give it a shot.
+          <br />
+          <br />
+          After reading up on others that have switched careers to web
+          development, I found that it was possible. It was inspiring. If I put
+          in the hard work and tried my best, I could finally have a career I
+          was proud of and make a great living for myself. I've taken courses
+          online such as Udemy, Codeacademy, and Treehouse. I found that Udemy
+          was the best learning tool for me and wasn't expensive at all. They
+          have great teachers, and if you have any questions about the course or
+          run into any problems, they'll respond rather swiftly.
+          <br />
+          <br />
+          I've learned HTML, CSS, Javascript, React, Redux, Nodejs, and many
+          more libraries/frameworks. I enjoy creating websites and would love to
+          make it my new career. All I need is someone to give me a chance and I
+          know I'll become a great asset to any company willing to give me the
+          opportunity.
         </p>
       </div>
 
