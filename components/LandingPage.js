@@ -17,11 +17,11 @@ const LandingPage = () => {
         <div className="flex justify-between items-center relative cursor-pointer">
           <div>
             <img
-              className="w-[300px] relative right-10 bottom-5"
+              className="w-[300px] relative right-10 bottom-2"
               src="/images/stroke.png"
               alt="paint-stroke"
             />
-            <div className="absolute top-[16px] sm:top-[30px] left-[35px] sm:left-[65px] text-white font-alata">
+            <div className="absolute top-[29px] sm:top-[39px] left-[35px] sm:left-[65px] text-white font-alata">
               <Link href="#about">
                 <h2 className="text-sm sm:text-lg">About Me</h2>
               </Link>
